@@ -16,5 +16,30 @@ The aim of this project is to analyze cryptocurrency prices and market behavior 
 Source Link:
 https://www.kaggle.com/datasets/mihikaajayjadhav/top-100-cryptocurrencies-daily-price-data-2025
 
+How to Run This Project
+🔹 Step 1: Get Dataset
+Go to Kaggle
+Download the dataset files
 
-add data set in kaggle using input and set path and execute codes ipynb one by one to get quries and tabular forms and graphs and desired outputs
+🔹 Step 2: Upload Dataset
+Place the downloaded files in your project folder
+OR
+Upload them to Kaggle Notebook environment
+
+🔹 Step 3: Open Notebooks
+Open the .ipynb files in:
+Jupyter Notebook
+OR Kaggle Notebooks
+
+🔹 Step 4: Run the Code
+Run all cells step by step
+The code will:
+Load dataset
+Perform preprocessing
+Train model
+Generate predictions
+
+🔹 Step 5: Output
+You will get:
+Prediction results
+Tables and Graphs
