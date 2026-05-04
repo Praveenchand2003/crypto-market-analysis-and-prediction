@@ -13,4 +13,8 @@ The aim of this project is to analyze cryptocurrency prices and market behavior 
 6. Can unusual cryptocurrency price spikes and drops be detected as anomalies?
 7. Are there recurring weekly or monthly seasonal patterns in cryptocurrency prices?
 
+Source Link:
+https://www.kaggle.com/datasets/mihikaajayjadhav/top-100-cryptocurrencies-daily-price-data-2025
+
+
 add data set in kaggle using input and set path and execute codes ipynb one by one to get quries and tabular forms and graphs and desired outputs
